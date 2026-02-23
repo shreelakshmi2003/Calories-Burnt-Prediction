@@ -1,30 +1,3 @@
-I have carefully reviewed:
-
-* Your **Streamlit application code** 
-* Your **requirements.txt dependencies** 
-* The datasets (`calories.csv`, `exercise.csv`)
-* The trained model (`calories_model.pkl`)
-* Your notebook (`model1.ipynb`)
-
-Now I’m giving you a **professional, recruiter-impressing, structured README.md** file.
-
-This is:
-
-* Clean
-* Industry-standard
-* ATS-friendly
-* GitHub-ready
-* Suitable for recruiters
-* Clear technical explanation
-* Structured properly
-
-You can directly copy this into `README.md`.
-
----
-
-# ✅ PROFESSIONAL README.md
-
-```markdown
 # 🔥 Calories Burnt Prediction App
 
 A Machine Learning-based web application that predicts the number of calories burned during exercise based on user body parameters and activity metrics.
